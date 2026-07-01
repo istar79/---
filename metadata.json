@@ -1,0 +1,6 @@
+{
+  "name": "Suberunker",
+  "description": "A retro-themed stickman dung-dodging game inspired by the classic Korean web game 'Suberunker' with authentic Windows 95 retro styling, responsive controls, and high-score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
